@@ -1,0 +1,11 @@
+Build
+build
+TemporaryItems
+.DS_Store
+
+*.mode2v3
+*.pbxuser
+*.perspectivev3
+
+/Local.xcconfig
+/Local-*.xcconfig

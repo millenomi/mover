@@ -1,0 +1,8 @@
+
+// This is a template for Local.xcconfig. It's recommended that you use this — by setting a common build folder, parallel builds become possible.
+
+// $(ILABS_MOVER_PROJECT_NAME) is an identifier for the project that each Mover subproject sets (eg 'Core', 'Mover-iPhone', 'Mover-iPad', 'MoverConnect').
+
+ILABS_MOVER_REPOSITORY_ROOT = /Users/millenomi/Developer/Multiverse/Mover
+ILABS_BASE_BUILD_FOLDER = $(ILABS_MOVER_REPOSITORY_ROOT)/Build/$(ILABS_MOVER_PROJECT_NAME)
+

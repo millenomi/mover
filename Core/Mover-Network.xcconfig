@@ -1,0 +1,11 @@
+
+#include "../Mover-Baseline.xcconfig"
+
+ILABS_MOVER_PROJECT_NAME = Core
+
+ILABS_MOVER_CORE_VERSION = 1.3
+
+OTHER_LDFLAGS = -ObjC -all_load
+HEADER_SEARCH_PATHS = "$(INFINITELABS_LIB_MUIKIT)/Build/Headers"
+
+#include "../Local.xcconfig"
