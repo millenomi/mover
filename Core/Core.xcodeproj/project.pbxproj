@@ -138,14 +138,14 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = 0867D690FE84028FC02AAC07 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 1535D1CB1090336700CBF778 /* Network (Mac OS X) */;
+			remoteGlobalIDString = 1535D1CB1090336700CBF778;
 			remoteInfo = "Network (Mac OS X)";
 		};
 		157432B3117DC0F300FA95B9 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 0867D690FE84028FC02AAC07 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = D2AAC07D0554694100DB518D /* Network (iPhone) */;
+			remoteGlobalIDString = D2AAC07D0554694100DB518D;
 			remoteInfo = "Network (iPhone)";
 		};
 		15F603FF105BDE2800F73794 /* PBXContainerItemProxy */ = {
